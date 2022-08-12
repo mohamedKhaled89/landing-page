@@ -3,6 +3,8 @@
 It's a multi-section page.
 The goal is to convert this project from a static project to an interactive one.
 
+- Live Site URL: [https://mohamedkhaled89.github.io/qr-code-component/]
+
 # Table of Contents
 
 1. I added section four to index.html file
